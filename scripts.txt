@@ -1,0 +1,3 @@
+
+msximg Font_cmsx_sys1.png -out fonts.h -name g_alphabeticalFontPatterns -mode gm1 -size 128 128 -pos 0 0 -gap 0 0 -num 4 16 -pal msx1
+
